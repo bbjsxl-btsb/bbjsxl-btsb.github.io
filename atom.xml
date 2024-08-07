@@ -3,11 +3,11 @@
   <title>bbjsxl`blog</title>
   
   <subtitle>折艘小船，天天都是晴天</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://bbjsxl-btsb.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://bbjsxl-btsb.github.io/"/>
   <updated>2024-08-07T03:06:42.939Z</updated>
-  <id>http://example.com/</id>
+  <id>http://bbjsxl-btsb.github.io/</id>
   
   <author>
     <name>bbjsxl</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试一下</title>
-    <link href="http://example.com/posts/1b916506.html"/>
-    <id>http://example.com/posts/1b916506.html</id>
+    <link href="http://bbjsxl-btsb.github.io/posts/1b916506.html"/>
+    <id>http://bbjsxl-btsb.github.io/posts/1b916506.html</id>
     <published>2024-08-07T01:21:57.923Z</published>
     <updated>2024-08-07T03:06:42.939Z</updated>
     
