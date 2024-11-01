@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://bbjsxl-btsb.github.io/posts/b8775fab.html</loc>
-    
-    <lastmod>2024-10-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://bbjsxl-btsb.github.io/posts/861c38b6.html</loc>
     
-    <lastmod>2024-10-27</lastmod>
+    <lastmod>2024-11-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,16 @@
   <url>
     <loc>http://bbjsxl-btsb.github.io/posts/b8cf1317.html</loc>
     
-    <lastmod>2024-08-07</lastmod>
+    <lastmod>2024-11-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://bbjsxl-btsb.github.io/posts/b8775fab.html</loc>
+    
+    <lastmod>2024-10-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>http://bbjsxl-btsb.github.io/</loc>
-    <lastmod>2024-10-30</lastmod>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,14 +48,14 @@
   
   <url>
     <loc>http://bbjsxl-btsb.github.io/tags/singing/</loc>
-    <lastmod>2024-10-30</lastmod>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://bbjsxl-btsb.github.io/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2024-10-30</lastmod>
+    <lastmod>2024-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
